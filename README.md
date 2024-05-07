@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amina1991
 - 👀 I’m interested in data analysis, energy topics, and energy economics
-- 🌱 I’m currently learning energy transition
+- 🌱 I’m currently delving into energy transition
 - 💞️ I’m looking to collaborate on advanced data analysis and modeling in energy
 - 📫 How to reach me: amina.talipova@gmail.com
 
